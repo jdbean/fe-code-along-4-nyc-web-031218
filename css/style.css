@@ -125,7 +125,7 @@ figcaption {
   width: 40px;
   z-index: 1;
 }
- 
+
 #social  a {
   display: block;
   width: 40px;
@@ -144,4 +144,15 @@ img, video, audio {
 section {
   padding: 20px;
   margin-bottom: 20px;
+}
+
+/*////////// SECTIONS //////////*/
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #fff;
+  z-index: 1;
 }
